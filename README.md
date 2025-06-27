@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @DEVASHISH4522
 - 👀 I’m interested in learning programming .
-- 🌱 I’m currently learning  Phython and java
+- 🌱 I’m currently learning  Phython 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm just a begginer.
+- ⚡ Fun fact: Its fun to learn somthing you are intrested in 😊☠️ .
 
 <!---
 DEVASHISH4522/DEVASHISH4522 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
